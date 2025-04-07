@@ -1,0 +1,27 @@
+<app-listado-generico [listado]="peliculas">
+
+    <ng-container contenido>
+        <!-- Convertimos el título de la película a minúsculas usando el pipe 'lowercase' | simbolo del pipe' -->
+        <div class="peliculas-contenedor">
+
+
+            <div *ngFor="let pelicula of peliculas; let index=index" class="pelicula-contenedor">
+                <a>
+                    <img [src]="pelicula.poster" alt="Poster" />
+                </a>
+                <p>
+                    <a>{{pelicula.titulo}}</a>
+                </p>
+                <div>
+                    <button mat-flat-button color="primary">
+                        Editar
+                    </button>
+                    <button mat-flat-button color color="warn" type="button">
+                        Borrar
+                    </button>
+                </div>
+            </div>
+        </div>
+    </ng-container>
+
+</app-listado-generico>

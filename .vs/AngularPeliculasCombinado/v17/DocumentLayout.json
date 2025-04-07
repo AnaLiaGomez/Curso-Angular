@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yulid\\Documents\\CursoAngular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{888273AE-65C7-7439-9D6C-8D7AA5F8F5D7}|angularpeliculascombinado.client\\angularpeliculascombinado.client.esproj|c:\\users\\yulid\\documents\\cursoangular\\angularpeliculascombinado.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{888273AE-65C7-7439-9D6C-8D7AA5F8F5D7}|angularpeliculascombinado.client\\angularpeliculascombinado.client.esproj|solutionrelative:angularpeliculascombinado.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888273AE-65C7-7439-9D6C-8D7AA5F8F5D7}|angularpeliculascombinado.client\\angularpeliculascombinado.client.esproj|c:\\users\\yulid\\documents\\cursoangular\\angularpeliculascombinado.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{888273AE-65C7-7439-9D6C-8D7AA5F8F5D7}|angularpeliculascombinado.client\\angularpeliculascombinado.client.esproj|solutionrelative:angularpeliculascombinado.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EDDA11-273F-4092-AF1D-A98F3729F253}|AngularPeliculasCombinado.Server\\AngularPeliculasCombinado.Server.csproj|c:\\users\\yulid\\documents\\cursoangular\\angularpeliculascombinado.server\\angularpeliculascombinado.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{19EDDA11-273F-4092-AF1D-A98F3729F253}|AngularPeliculasCombinado.Server\\AngularPeliculasCombinado.Server.csproj|solutionrelative:angularpeliculascombinado.server\\angularpeliculascombinado.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\yulid\\Documents\\CursoAngular\\angularpeliculascombinado.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "angularpeliculascombinado.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\yulid\\Documents\\CursoAngular\\angularpeliculascombinado.client\\src\\app\\app.component.ts*",
+              "RelativeToolTip": "angularpeliculascombinado.client\\src\\app\\app.component.ts*",
+              "ViewState": "AgIAAB0AAACA/E3+Jn8TwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-25T16:01:19.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\yulid\\Documents\\CursoAngular\\angularpeliculascombinado.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "angularpeliculascombinado.client\\src\\main.ts",
+              "ToolTip": "C:\\Users\\yulid\\Documents\\CursoAngular\\angularpeliculascombinado.client\\src\\main.ts",
+              "RelativeToolTip": "angularpeliculascombinado.client\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-25T16:00:57.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AngularPeliculasCombinado.Server",
+              "DocumentMoniker": "C:\\Users\\yulid\\Documents\\CursoAngular\\AngularPeliculasCombinado.Server\\AngularPeliculasCombinado.Server.csproj",
+              "RelativeDocumentMoniker": "AngularPeliculasCombinado.Server\\AngularPeliculasCombinado.Server.csproj",
+              "ToolTip": "C:\\Users\\yulid\\Documents\\CursoAngular\\AngularPeliculasCombinado.Server\\AngularPeliculasCombinado.Server.csproj",
+              "RelativeToolTip": "AngularPeliculasCombinado.Server\\AngularPeliculasCombinado.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T16:00:04.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
