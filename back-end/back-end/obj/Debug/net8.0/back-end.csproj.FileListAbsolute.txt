@@ -33,3 +33,4 @@ C:\Users\yulid\Documents\CursoAngular\back-end\back-end\obj\Debug\net8.0\refint\
 C:\Users\yulid\Documents\CursoAngular\back-end\back-end\obj\Debug\net8.0\back-end.pdb
 C:\Users\yulid\Documents\CursoAngular\back-end\back-end\obj\Debug\net8.0\back-end.genruntimeconfig.cache
 C:\Users\yulid\Documents\CursoAngular\back-end\back-end\obj\Debug\net8.0\ref\back-end.dll
+C:\Users\yulid\Documents\CursoAngular\back-end\back-end\obj\Debug\net8.0\back-end.sourcelink.json

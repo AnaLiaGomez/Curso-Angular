@@ -10,6 +10,11 @@ import{MatCheckboxModule} from '@angular/material/checkbox'
 import{MatDatepickerModule} from '@angular/material/datepicker'
 import {MatTabsModule} from '@angular/material/tabs'
 import { MarkdownModule } from 'ngx-markdown';
+import { MatAutocompleteModule } from '@angular/material/autocomplete';
+import { MatTableModule } from '@angular/material/table';
+import {DragDropModule} from '@angular/cdk/drag-drop'
+import { MatPaginatorModule } from '@angular/material/paginator'
+import { MatProgressSpinnerModule } from '@angular/material/progress-spinner' 
 
 
 @NgModule({
@@ -24,7 +29,12 @@ import { MarkdownModule } from 'ngx-markdown';
     MatCheckboxModule,
     MatDatepickerModule,
     MatTabsModule, 
-    MarkdownModule
+    MarkdownModule, 
+    MatAutocompleteModule,
+    MatTableModule,
+    DragDropModule, 
+    MatPaginatorModule,
+    MatProgressSpinnerModule
   ],
 
   imports: [

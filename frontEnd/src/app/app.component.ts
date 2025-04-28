@@ -8,6 +8,8 @@ import { RouterModule } from '@angular/router';  // Mantén RouterModule aquí, 
 import { MatButtonModule } from '@angular/material/button';
 import { MarkdownModule } from 'ngx-markdown';
 
+
+
 @Component({
   selector: 'app-root',
   standalone: true,
@@ -17,7 +19,8 @@ import { MarkdownModule } from 'ngx-markdown';
     MatIconModule,
     RouterModule,
     MatButtonModule,
-    MarkdownModule
+    MarkdownModule,
+    
   ],
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']

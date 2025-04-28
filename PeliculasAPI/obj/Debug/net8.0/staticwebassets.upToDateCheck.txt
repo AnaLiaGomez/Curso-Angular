@@ -1,0 +1,9 @@
+wwwroot\actores\396f9865-2a05-4d11-82e4-af4fc884fd2d.jpg
+wwwroot\actores\42266237-ff7c-4092-a792-834250ed6276.webp
+wwwroot\actores\b2a64f65-7da4-4f0d-8026-110f89d8f840.jpg
+wwwroot\actores\dafe3fea-7595-4979-95a9-d11b50425cbc.jpg
+wwwroot\actores\e486af44-d970-49bf-ba32-7d5754134d75.webp
+wwwroot\peliculas\4da10075-8317-4c90-a7a7-368db5968f80.jpg
+wwwroot\peliculas\aba2d508-8ed8-4ab3-83ab-123d5c567f97.jpg
+wwwroot\peliculas\af115bff-7c2f-4832-b475-dea3140171d5.jfif
+wwwroot\peliculas\e0dc6795-f73a-481c-ad4c-6414a2d9d21e.jpg

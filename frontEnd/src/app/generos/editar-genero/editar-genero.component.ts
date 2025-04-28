@@ -6,29 +6,46 @@ import { MatFormFieldModule} from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
 import { RouterModule } from '@angular/router';
 import { FormularioGeneroComponent } from '../formulario-genero/formulario-genero.component';
-import { generoCreacionDTO } from '../genero';
+import { generoCreacionDTO, generoDTO } from '../genero';
 import { Router } from '@angular/router';
+import { ActivatedRoute } from '@angular/router';
+import { GenerosService } from '../generos.service';
+import { MatProgressSpinnerModule } from '@angular/material/progress-spinner' 
+import { parsearErroresAPI } from '../../utilidades/utilidades';
 
 
 @Component({
   selector: 'app-editar-genero',
-  imports: [RouterModule, CommonModule, ReactiveFormsModule, MatFormFieldModule, MatButtonModule, MatInputModule, FormularioGeneroComponent],
+  standalone: true,
+  imports: [RouterModule, CommonModule, ReactiveFormsModule, MatFormFieldModule,
+   MatButtonModule, MatInputModule, FormularioGeneroComponent, MatProgressSpinnerModule],
   templateUrl: './editar-genero.component.html',
   styleUrl: './editar-genero.component.css'
 })
 export class EditarGeneroComponent implements OnInit {
-   constructor(private router: Router){}
+   constructor(private router: Router, 
+    private generosService: GenerosService, 
+    private activatedRoute:ActivatedRoute){}
 
-   modelo: generoCreacionDTO = {nombre: 'Drama'};
+   modelo: generoDTO;
+   errores: string[]= [];
 
    ngOnInit(): void {
+    this.activatedRoute.params.subscribe(params=>{
+    this.generosService.obtenerPorId(params.id)
+    .subscribe(genero => {
+      this.modelo= genero;
+    }, () => this.router.navigate(['/generos']))
+  });
      
    }
-   guardarCambios(genero:generoCreacionDTO) {
-      //...guardar cambios 
-      console.log(genero);
-      this.router.navigate(['/generos'])
-    }
+   
+   guardarCambios(genero: generoCreacionDTO) {
+    this.generosService.editar(this.modelo.id, genero)
+      .subscribe(() => {
+        this.router.navigate(['/generos']);
+      }, error => this.errores = parsearErroresAPI(error));
+  }
   
 
 }

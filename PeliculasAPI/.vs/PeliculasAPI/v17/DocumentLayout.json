@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|c:\\users\\yulid\\documents\\cursoangular\\peliculasapi\\dtos\\peliculacreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|solutionrelative:dtos\\peliculacreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|c:\\users\\yulid\\documents\\cursoangular\\peliculasapi\\dtos\\peliculaactordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|solutionrelative:dtos\\peliculaactordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|c:\\users\\yulid\\documents\\cursoangular\\peliculasapi\\validaciones\\primeraletramayusculaatributte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|solutionrelative:validaciones\\primeraletramayusculaatributte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|c:\\users\\yulid\\documents\\cursoangular\\peliculasapi\\utilidades\\typebinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|solutionrelative:utilidades\\typebinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|c:\\users\\yulid\\documents\\cursoangular\\peliculasapi\\dtos\\actorpeliculacreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|solutionrelative:dtos\\actorpeliculacreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|c:\\users\\yulid\\documents\\cursoangular\\peliculasapi\\filtros\\filtrosdeexcepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|solutionrelative:filtros\\filtrosdeexcepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|c:\\users\\yulid\\documents\\cursoangular\\peliculasapi\\utilidades\\iqueryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|solutionrelative:utilidades\\iqueryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|c:\\users\\yulid\\documents\\cursoangular\\peliculasapi\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|solutionrelative:controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|c:\\users\\yulid\\documents\\cursoangular\\peliculasapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|c:\\users\\yulid\\documents\\cursoangular\\peliculasapi\\controllers\\actorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|solutionrelative:controllers\\actorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|c:\\users\\yulid\\documents\\cursoangular\\peliculasapi\\dtos\\peliculaspostgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|solutionrelative:dtos\\peliculaspostgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|c:\\users\\yulid\\documents\\cursoangular\\peliculasapi\\utilidades\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|solutionrelative:utilidades\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|c:\\users\\yulid\\documents\\cursoangular\\peliculasapi\\entidades\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BEB860-8469-4174-AB61-86A8FDF66D82}|PeliculasAPI.csproj|solutionrelative:entidades\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FiltrosDeExcepcion.cs",
+              "DocumentMoniker": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\Filtros\\FiltrosDeExcepcion.cs",
+              "RelativeDocumentMoniker": "Filtros\\FiltrosDeExcepcion.cs",
+              "ToolTip": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\Filtros\\FiltrosDeExcepcion.cs",
+              "RelativeToolTip": "Filtros\\FiltrosDeExcepcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T23:54:02.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IQueryableExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\Utilidades\\IQueryableExtensions.cs",
+              "RelativeDocumentMoniker": "Utilidades\\IQueryableExtensions.cs",
+              "ToolTip": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\Utilidades\\IQueryableExtensions.cs",
+              "RelativeToolTip": "Utilidades\\IQueryableExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T23:53:53.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T00:59:30.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PeliculaActorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\DTOs\\PeliculaActorDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\PeliculaActorDTO.cs",
+              "ToolTip": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\DTOs\\PeliculaActorDTO.cs",
+              "RelativeToolTip": "DTOs\\PeliculaActorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T01:56:40.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeliculaCreacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\DTOs\\PeliculaCreacionDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\PeliculaCreacionDTO.cs",
+              "ToolTip": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\DTOs\\PeliculaCreacionDTO.cs",
+              "RelativeToolTip": "DTOs\\PeliculaCreacionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:18:50.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrimeraLetraMayusculaAtributte.cs",
+              "DocumentMoniker": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\Validaciones\\PrimeraLetraMayusculaAtributte.cs",
+              "RelativeDocumentMoniker": "Validaciones\\PrimeraLetraMayusculaAtributte.cs",
+              "ToolTip": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\Validaciones\\PrimeraLetraMayusculaAtributte.cs",
+              "RelativeToolTip": "Validaciones\\PrimeraLetraMayusculaAtributte.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwA8AAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T23:54:23.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActorPeliculaCreacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\DTOs\\ActorPeliculaCreacionDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ActorPeliculaCreacionDTO.cs",
+              "ToolTip": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\DTOs\\ActorPeliculaCreacionDTO.cs",
+              "RelativeToolTip": "DTOs\\ActorPeliculaCreacionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:37:17.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TypeBinder.cs",
+              "DocumentMoniker": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\Utilidades\\TypeBinder.cs",
+              "RelativeDocumentMoniker": "Utilidades\\TypeBinder.cs",
+              "ToolTip": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\Utilidades\\TypeBinder.cs",
+              "RelativeToolTip": "Utilidades\\TypeBinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:21:05.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PeliculasController.cs",
+              "DocumentMoniker": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\Controllers\\PeliculasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PeliculasController.cs",
+              "ToolTip": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\Controllers\\PeliculasController.cs",
+              "RelativeToolTip": "Controllers\\PeliculasController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:12:25.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ActoresController.cs",
+              "DocumentMoniker": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\Controllers\\ActoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ActoresController.cs",
+              "ToolTip": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\Controllers\\ActoresController.cs",
+              "RelativeToolTip": "Controllers\\ActoresController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAUwDwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:45:21.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\Utilidades\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Utilidades\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\Utilidades\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Utilidades\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:59:59.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PeliculasPostGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\DTOs\\PeliculasPostGetDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\PeliculasPostGetDTO.cs",
+              "ToolTip": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\DTOs\\PeliculasPostGetDTO.cs",
+              "RelativeToolTip": "DTOs\\PeliculasPostGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:14:53.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\Entidades\\Pelicula.cs",
+              "RelativeDocumentMoniker": "Entidades\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\yulid\\Documents\\CursoAngular\\PeliculasAPI\\Entidades\\Pelicula.cs",
+              "RelativeToolTip": "Entidades\\Pelicula.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:19:06.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

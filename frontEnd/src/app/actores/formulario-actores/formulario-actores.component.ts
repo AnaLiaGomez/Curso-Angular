@@ -13,12 +13,13 @@ import { InputImgComponent } from "../../utilidades/input-img/input-img.componen
 import { actorDTO } from '../actor';
 import { InputMarkdownComponent } from "../../utilidades/input-markdown/input-markdown.component";
 import { MarkdownModule, provideMarkdown } from 'ngx-markdown';
+import { MostrarErroresComponent } from "../../utilidades/mostrar-errores/mostrar-errores.component";
 
 @Component({
   selector: 'app-formulario-actores',
   imports: [RouterModule, CommonModule, ReactiveFormsModule,
     MatFormFieldModule, MatButtonModule, MatInputModule, MatFormField, MatDatepickerModule,
-     MatNativeDateModule, InputImgComponent, InputMarkdownComponent, MarkdownModule],
+    MatNativeDateModule, InputImgComponent, InputMarkdownComponent, MarkdownModule, MostrarErroresComponent],
   providers: [provideMarkdown()],
   templateUrl: './formulario-actores.component.html',
   styleUrl: './formulario-actores.component.css'
@@ -31,8 +32,13 @@ export class FormularioActoresComponent implements OnInit {
   @Input()
   modelo: actorDTO;
 
+  @Input()
+  errores: string[] = [];
+
   @Output()
   OnSubmit: EventEmitter<actorCreacionDTO> = new EventEmitter<actorCreacionDTO>();
+
+  imagenCambiada = false;
 
   ngOnInit(): void {
     this.form = this.fromBuilder.group({
@@ -44,7 +50,7 @@ export class FormularioActoresComponent implements OnInit {
       ],
       fechaNacimiento: '',
       foto: '',
-      biografia:''
+      biografia: ''
     });
     if (this.modelo !== undefined) {
       this.form.patchValue(this.modelo)
@@ -52,16 +58,20 @@ export class FormularioActoresComponent implements OnInit {
 
   }
 
-  archivoSeleccionado(file){
-   this.form.get('foto').setValue(file);
+  archivoSeleccionado(file) {
+    this.imagenCambiada = true;
+    this.form.get('foto').setValue(file);
   }
 
-  cambioMarkdown(texto: string){
+  cambioMarkdown(texto: string) {
     this.form.get('biografia').setValue(texto);
 
   }
 
   Onsubmit() {
+    if(!this.imagenCambiada){
+      this.form.patchValue({'foto': null});
+    }
     this.OnSubmit.emit(this.form.value);
   }
 }

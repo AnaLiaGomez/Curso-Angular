@@ -11,13 +11,15 @@ import { MarkdownModule, provideMarkdown } from 'ngx-markdown';
 import { CommonModule } from '@angular/common';
 import { cineCreacionDTO } from '../cines';
 import { MapaComponent } from '../../utilidades/mapa/mapa.component';
+import { MostrarErroresComponent } from "../../utilidades/mostrar-errores/mostrar-errores.component";
 
 
 @Component({
   selector: 'app-formulario-cine',
+  standalone: true,
   imports: [RouterModule, CommonModule, ReactiveFormsModule,
     MatFormFieldModule, MatButtonModule, MatInputModule, MatFormField, MatDatepickerModule,
-    MatNativeDateModule, MarkdownModule, ReactiveFormsModule, MapaComponent],
+    MatNativeDateModule, MarkdownModule, ReactiveFormsModule, MapaComponent, MostrarErroresComponent],
   providers: [provideMarkdown()],
   templateUrl: './formulario-cine.component.html',
   styleUrl: './formulario-cine.component.css'
@@ -29,6 +31,9 @@ export class FormularioCineComponent implements OnInit {
 
   @Input()
     modelo: cineCreacionDTO;
+
+  @Input()
+  errores: string[]=[];
 
   @Output()
     guardarCambios: EventEmitter<cineCreacionDTO> = new EventEmitter<cineCreacionDTO>();

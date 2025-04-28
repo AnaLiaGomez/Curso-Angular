@@ -8,16 +8,21 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatInputModule } from '@angular/material/input';
 import { EventEmitter } from '@angular/core';
 import { generoCreacionDTO } from '../genero';
+import { MostrarErroresComponent } from "../../utilidades/mostrar-errores/mostrar-errores.component";
 
 
 @Component({
   selector: 'app-formulario-genero',
-  imports: [RouterModule, CommonModule, ReactiveFormsModule, MatFormFieldModule, MatButtonModule, MatInputModule, MatFormField],
+  imports: [RouterModule, CommonModule, ReactiveFormsModule, MatFormFieldModule, 
+    MatButtonModule, MatInputModule, MatFormField, MostrarErroresComponent, MostrarErroresComponent],
   templateUrl: './formulario-genero.component.html',
   styleUrl: './formulario-genero.component.css'
 })
 export class FormularioGeneroComponent  implements OnInit{
   form: FormGroup;
+
+  @Input()
+  errores: string[]= [];
 
   @Input()
   modelo: generoCreacionDTO;
